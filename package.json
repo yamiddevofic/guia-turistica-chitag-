@@ -1,0 +1,30 @@
+{
+  "name": "guia-turistica-chitaga",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Gu\u00eda tur\u00edstica de Chitag\u00e1: tu ubicaci\u00f3n, puntos de inter\u00e9s y rutas para llegar.",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 5174",
+    "api": "node --watch server/index.mjs",
+    "build": "tsc --noEmit && vite build",
+    "start": "node server/index.mjs",
+    "datos": "node scripts/actualizar-osm.mjs"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "lucide-react": "^1.56.0",
+    "maplibre-gl": "^6.14.0",
+    "qrcode": "^1.5.4",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vite-plugin-pwa": "^2.0.0"
+  }
+}

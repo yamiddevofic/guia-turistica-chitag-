@@ -1,0 +1,1643 @@
+{
+  "version": 1,
+  "actualizado": "2026-10-14T02:32:15.117Z",
+  "lugares": [
+    {
+      "id": "parque-principal",
+      "nombre": "Parque Principal de Chitagá",
+      "categoria": "turismo",
+      "tipo": "Plaza principal",
+      "destacado": true,
+      "altitud": 2345,
+      "descripcion": {
+        "general": "Centro de la vida del pueblo. Tiene las letras monumentales con el nombre del municipio y un obelisco que recuerda el paso de Simón Bolívar. Al frente está la iglesia de San Juan Nepomuceno.",
+        "historia": "El obelisco conmemora el paso del Libertador por Chitagá durante la campaña de independencia."
+      },
+      "ubicacion": {
+        "latitud": 7.138207,
+        "longitud": -72.664824,
+        "descripcion": "Casco urbano, frente a la iglesia",
+        "verificacion": "osm"
+      },
+      "acceso": {
+        "desde": "Casco urbano",
+        "tiempo": "En el centro",
+        "dificultad": "facil"
+      },
+      "consejos": [
+        "Los árboles del parque tienen ficha con código QR en PlantasQR."
+      ],
+      "enlaces": [
+        {
+          "nombre": "Árboles del parque (PlantasQR)",
+          "url": "https://plantas-qr.vercel.app/"
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/657446526"
+        },
+        {
+          "nombre": "Turismo Norte de Santander",
+          "url": "https://turismonortedesantander.com/chitaga/"
+        }
+      ],
+      "actualizado": "2026-10-14T02:22:59.418Z"
+    },
+    {
+      "id": "iglesia-san-juan-nepomuceno",
+      "nombre": "Iglesia San Juan Nepomuceno",
+      "categoria": "turismo",
+      "tipo": "Templo",
+      "destacado": true,
+      "descripcion": {
+        "general": "Templo principal del municipio, frente al parque. Su fachada es uno de los referentes del pueblo.",
+        "historia": "Según la guía de turismo departamental, la parroquia fue fundada en 1808."
+      },
+      "ubicacion": {
+        "latitud": 7.13829,
+        "longitud": -72.664131,
+        "descripcion": "Costado del Parque Principal",
+        "verificacion": "osm"
+      },
+      "acceso": {
+        "desde": "Casco urbano",
+        "tiempo": "En el centro",
+        "dificultad": "facil"
+      },
+      "consejos": [
+        "Respeta los horarios de culto si entras a visitarla."
+      ],
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/657448134"
+        },
+        {
+          "nombre": "Turismo Norte de Santander",
+          "url": "https://turismonortedesantander.com/chitaga/"
+        }
+      ],
+      "actualizado": "2026-10-14T02:22:59.418Z"
+    },
+    {
+      "id": "laguna-comagueta",
+      "nombre": "Laguna Comagüeta",
+      "categoria": "naturaleza",
+      "tipo": "Laguna de páramo",
+      "destacado": true,
+      "altitud": 3432,
+      "descripcion": {
+        "general": "Laguna del páramo cercana al corregimiento de Presidente. Es un buen lugar para ver aves y fauna de alta montaña.",
+        "historia": "Hace parte del complejo de páramos del Almorzadero, que regula el agua de la región."
+      },
+      "ubicacion": {
+        "latitud": 7.010177,
+        "longitud": -72.682431,
+        "descripcion": "Zona rural, cerca de Presidente",
+        "verificacion": "osm"
+      },
+      "acceso": {
+        "desde": "Corregimiento de Presidente",
+        "tiempo": "Consulta localmente el estado del camino",
+        "dificultad": "moderada"
+      },
+      "consejos": [
+        "Lleva ropa abrigada e impermeable: el clima del páramo cambia rápido.",
+        "Camina despacio: estás por encima de 3.400 m de altitud.",
+        "No dejes basura ni extraigas plantas, especialmente frailejones."
+      ],
+      "datosCuriosos": [
+        "La guía departamental menciona cabaña y servicio de comida junto a la laguna; confirma disponibilidad antes de ir."
+      ],
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/485661424"
+        },
+        {
+          "nombre": "Turismo Norte de Santander",
+          "url": "https://turismonortedesantander.com/chitaga/"
+        }
+      ],
+      "actualizado": "2026-10-14T02:22:59.418Z"
+    },
+    {
+      "id": "laguna-el-salado",
+      "nombre": "Laguna El Salado",
+      "categoria": "naturaleza",
+      "tipo": "Laguna de páramo",
+      "destacado": true,
+      "altitud": 3476,
+      "descripcion": {
+        "general": "Considerada el principal atractivo natural del municipio, en el Páramo del Almorzadero."
+      },
+      "ubicacion": {
+        "latitud": 7.016067,
+        "longitud": -72.698285,
+        "descripcion": "Punto final de la vía a la laguna registrada en OpenStreetMap; la orilla puede estar a unos metros",
+        "verificacion": "aproximada"
+      },
+      "acceso": {
+        "desde": "Corregimiento de Presidente",
+        "tiempo": "Unos 40–45 min a pie según la guía departamental",
+        "dificultad": "moderada"
+      },
+      "consejos": [
+        "Sal temprano: en la tarde suele llegar la niebla.",
+        "Lleva agua, abrigo y protector solar."
+      ],
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap (Vía a la Laguna El Salado)",
+          "url": "https://www.openstreetmap.org/way/570457792"
+        },
+        {
+          "nombre": "Turismo Norte de Santander",
+          "url": "https://turismonortedesantander.com/chitaga/"
+        }
+      ],
+      "actualizado": "2026-10-14T02:22:59.418Z"
+    },
+    {
+      "id": "laguna-el-tambor",
+      "nombre": "Laguna El Tambor",
+      "categoria": "naturaleza",
+      "tipo": "Laguna de páramo",
+      "altitud": 3826,
+      "descripcion": {
+        "general": "La laguna más alta de la zona, alimentada por pequeñas caídas de agua. Recomendada solo para caminantes con experiencia."
+      },
+      "ubicacion": {
+        "descripcion": "Ubicación exacta por confirmar",
+        "verificacion": "pendiente"
+      },
+      "acceso": {
+        "desde": "Corregimiento de Presidente",
+        "tiempo": "Cerca de 1 h 50 min a pie según la guía departamental",
+        "dificultad": "dificil"
+      },
+      "consejos": [
+        "Ve con un guía local: el sendero es de piedra y terreno húmedo."
+      ],
+      "fuentes": [
+        {
+          "nombre": "Turismo Norte de Santander",
+          "url": "https://turismonortedesantander.com/chitaga/"
+        }
+      ],
+      "actualizado": "2026-10-14T02:22:59.418Z"
+    },
+    {
+      "id": "presidente",
+      "nombre": "Corregimiento de Presidente",
+      "categoria": "poblado",
+      "tipo": "Corregimiento",
+      "descripcion": {
+        "general": "Centro poblado rural y punto de partida hacia las lagunas del Páramo del Almorzadero."
+      },
+      "ubicacion": {
+        "latitud": 7.019642,
+        "longitud": -72.682554,
+        "descripcion": "Vía Chitagá – Málaga",
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/653968135"
+        }
+      ],
+      "actualizado": "2026-10-14T02:22:59.418Z"
+    },
+    {
+      "id": "paramo-almorzadero",
+      "nombre": "Páramo del Almorzadero",
+      "categoria": "naturaleza",
+      "tipo": "Ecosistema de páramo",
+      "destacado": true,
+      "descripcion": {
+        "general": "Complejo de páramos compartido entre Norte de Santander y Santander; en Norte de Santander abarca principalmente Chitagá y Silos. Es la zona de las lagunas de alta montaña."
+      },
+      "ubicacion": {
+        "descripcion": "Es un área extensa, no un punto. Las lagunas son la puerta de entrada.",
+        "verificacion": "pendiente"
+      },
+      "consejos": [
+        "Es un ecosistema protegido: quédate en los senderos."
+      ],
+      "fuentes": [
+        {
+          "nombre": "Wikipedia",
+          "url": "https://es.wikipedia.org/wiki/P%C3%A1ramo_del_Almorzadero"
+        }
+      ],
+      "actualizado": "2026-10-14T02:22:59.418Z"
+    },
+    {
+      "id": "casa-museo-rincon-abuela",
+      "nombre": "Casa Museo El Rincón de la Abuela",
+      "categoria": "turismo",
+      "tipo": "Museo",
+      "descripcion": {
+        "general": "Colección de historia local, objetos de la vida cotidiana y herramientas del campo."
+      },
+      "ubicacion": {
+        "descripcion": "Casco urbano; dirección por confirmar",
+        "verificacion": "pendiente"
+      },
+      "fuentes": [
+        {
+          "nombre": "Turismo Norte de Santander",
+          "url": "https://turismonortedesantander.com/chitaga/"
+        }
+      ],
+      "actualizado": "2026-10-14T02:22:59.418Z"
+    },
+    {
+      "id": "casa-museo-jorge-eliecer",
+      "nombre": "Casa Museo Jorge Eliécer Villamizar",
+      "categoria": "turismo",
+      "tipo": "Museo privado",
+      "descripcion": {
+        "general": "Museo privado con pinturas, trabajos en piedra, réplicas religiosas y objetos de colección."
+      },
+      "ubicacion": {
+        "descripcion": "Casco urbano; dirección por confirmar",
+        "verificacion": "pendiente"
+      },
+      "fuentes": [
+        {
+          "nombre": "Turismo Norte de Santander",
+          "url": "https://turismonortedesantander.com/chitaga/"
+        }
+      ],
+      "actualizado": "2026-10-14T02:22:59.418Z"
+    },
+    {
+      "id": "casa-de-teja",
+      "nombre": "Casa de Teja",
+      "categoria": "turismo",
+      "tipo": "Casa histórica",
+      "descripcion": {
+        "general": "Casa tradicional señalada como lugar de nacimiento del presidente Ramón González Valencia."
+      },
+      "ubicacion": {
+        "descripcion": "Dirección por confirmar",
+        "verificacion": "pendiente"
+      },
+      "fuentes": [
+        {
+          "nombre": "Turismo Norte de Santander",
+          "url": "https://turismonortedesantander.com/chitaga/"
+        }
+      ],
+      "actualizado": "2026-10-14T02:22:59.418Z"
+    },
+    {
+      "id": "casa-colonial-bolivar",
+      "nombre": "Casa de Bolívar",
+      "categoria": "turismo",
+      "tipo": "Casa colonial",
+      "descripcion": {
+        "general": "Casa colonial donde, según la tradición local, se hospedó Simón Bolívar."
+      },
+      "ubicacion": {
+        "descripcion": "Dirección por confirmar",
+        "verificacion": "pendiente"
+      },
+      "fuentes": [
+        {
+          "nombre": "Turismo Norte de Santander",
+          "url": "https://turismonortedesantander.com/chitaga/"
+        }
+      ],
+      "actualizado": "2026-10-14T02:22:59.418Z"
+    },
+    {
+      "id": "puente-real",
+      "nombre": "Puente Real",
+      "categoria": "turismo",
+      "tipo": "Monumento histórico",
+      "descripcion": {
+        "general": "Puente histórico declarado Bien de Interés Cultural de carácter nacional."
+      },
+      "ubicacion": {
+        "descripcion": "Ubicación exacta por confirmar",
+        "verificacion": "pendiente"
+      },
+      "fuentes": [
+        {
+          "nombre": "Turismo Norte de Santander",
+          "url": "https://turismonortedesantander.com/chitaga/"
+        }
+      ],
+      "actualizado": "2026-10-14T02:22:59.418Z"
+    },
+    {
+      "id": "santuario-divina-confianza",
+      "nombre": "Santuario del Señor de la Divina Confianza",
+      "categoria": "turismo",
+      "tipo": "Santuario",
+      "descripcion": {
+        "general": "Lugar de peregrinación religiosa del municipio."
+      },
+      "ubicacion": {
+        "descripcion": "Ubicación por confirmar",
+        "verificacion": "pendiente"
+      },
+      "fuentes": [
+        {
+          "nombre": "Turismo Norte de Santander",
+          "url": "https://turismonortedesantander.com/chitaga/"
+        }
+      ],
+      "actualizado": "2026-10-14T02:22:59.418Z"
+    },
+    {
+      "id": "osm-node-12480809097",
+      "nombre": "CENTRO EDUCATIVO CENT DOC TRINO GARCIA PEÑA",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.140564,
+        "longitud": -72.66364,
+        "verificacion": "osm"
+      },
+      "telefono": "5678261",
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480809097"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807703",
+      "nombre": "Centro Educativo Palo Rucio",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.175802,
+        "longitud": -72.702333,
+        "verificacion": "osm"
+      },
+      "telefono": "680514",
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807703"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480809096",
+      "nombre": "Centro Educativo Ramón Gonzalez Valencia",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.138352,
+        "longitud": -72.663277,
+        "verificacion": "osm"
+      },
+      "telefono": "5678371",
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480809096"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807785",
+      "nombre": "Centro Educativo Rural Puente Real",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.192798,
+        "longitud": -72.64697,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807785"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807707",
+      "nombre": "Centro Educativo Rural Tane",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.252244,
+        "longitud": -72.579749,
+        "verificacion": "osm"
+      },
+      "telefono": "5680308",
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807707"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807803",
+      "nombre": "Centro Educativo San Luis de Chucarima",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.042243,
+        "longitud": -72.651135,
+        "verificacion": "osm"
+      },
+      "telefono": "5680791",
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807803"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807783",
+      "nombre": "Colegio Bas Rural Llano Grande",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.179187,
+        "longitud": -72.651692,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807783"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480809094",
+      "nombre": "Colegio Nal de Varones",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.137897,
+        "longitud": -72.663142,
+        "verificacion": "osm"
+      },
+      "telefono": "5678018",
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480809094"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480809095",
+      "nombre": "COLEGIO NUESTRA SEÑORA DEL CARMEN",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.136517,
+        "longitud": -72.665312,
+        "verificacion": "osm"
+      },
+      "telefono": "5678026",
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480809095"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807804",
+      "nombre": "Escuela Nueva Burgua",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.113151,
+        "longitud": -72.667402,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807804"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807778",
+      "nombre": "Escuela Nueva Burgua Alta",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.102206,
+        "longitud": -72.673708,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807778"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807800",
+      "nombre": "Escuela Nueva Cornejo",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.006789,
+        "longitud": -72.556282,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807800"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807798",
+      "nombre": "Escuela Nueva Don Antonio",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.208496,
+        "longitud": -72.668592,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807798"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807794",
+      "nombre": "Escuela Nueva Hato Grande",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.121598,
+        "longitud": -72.675493,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807794"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807701",
+      "nombre": "Escuela Nueva La Aguahita",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.115888,
+        "longitud": -72.516545,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807701"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807777",
+      "nombre": "Escuela Nueva La Palmera",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.121479,
+        "longitud": -72.665261,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807777"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807704",
+      "nombre": "Escuela Nueva Potreritos",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.02868,
+        "longitud": -72.653602,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807704"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807782",
+      "nombre": "Escuela Rural Aponseticos",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.152531,
+        "longitud": -72.543076,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807782"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807801",
+      "nombre": "Escuela Rural Bartaque",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.130402,
+        "longitud": -72.667759,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807801"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807802",
+      "nombre": "Escuela Rural Carvajal",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.090903,
+        "longitud": -72.564015,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807802"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807806",
+      "nombre": "Escuela Rural Casa Vieja",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.045456,
+        "longitud": -72.677396,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807806"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807797",
+      "nombre": "Escuela Rural El Alizal",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.163525,
+        "longitud": -72.7089,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807797"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807784",
+      "nombre": "Escuela Rural El Carbon",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.091141,
+        "longitud": -72.660026,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807784"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807709",
+      "nombre": "Escuela Rural El Delirio",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.179134,
+        "longitud": -72.690341,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807709"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807779",
+      "nombre": "Escuela Rural El Placer",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.138849,
+        "longitud": -72.520947,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807779"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807807",
+      "nombre": "Escuela Rural El Roble",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.116958,
+        "longitud": -72.730101,
+        "verificacion": "osm"
+      },
+      "telefono": "680307",
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807807"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807795",
+      "nombre": "Escuela Rural Integ Piedras",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.065562,
+        "longitud": -72.666332,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807795"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807793",
+      "nombre": "Escuela Rural La Copa",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.239774,
+        "longitud": -72.676433,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807793"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807792",
+      "nombre": "Escuela Rural La Honda",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.078292,
+        "longitud": -72.513094,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807792"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807791",
+      "nombre": "Escuela Rural La Laguna",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.13973,
+        "longitud": -72.683392,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807791"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807780",
+      "nombre": "Escuela Rural La Rosa",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.206307,
+        "longitud": -72.678943,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807780"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807790",
+      "nombre": "Escuela Rural Nueva La Mesa",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.223106,
+        "longitud": -72.577364,
+        "verificacion": "osm"
+      },
+      "telefono": "5680308",
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807790"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807781",
+      "nombre": "Escuela Rural Pantanitos",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.152103,
+        "longitud": -72.65265,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807781"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807787",
+      "nombre": "Escuela Rural Pueblo Viejo",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.156481,
+        "longitud": -72.722701,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807787"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807799",
+      "nombre": "Escuela Rural Quebrada Azul",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.158242,
+        "longitud": -72.509049,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807799"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807708",
+      "nombre": "Escuela Rural Quicuyes",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.081029,
+        "longitud": -72.678348,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807708"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807705",
+      "nombre": "Escuela Rural Río Colorado",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.123026,
+        "longitud": -72.478473,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807705"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807789",
+      "nombre": "Escuela Rural San Carlos",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.132663,
+        "longitud": -72.473714,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807789"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807788",
+      "nombre": "Escuela Rural Siaga",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.165523,
+        "longitud": -72.65027,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807788"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807805",
+      "nombre": "Escuela Rural Tapurcua",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.215111,
+        "longitud": -72.627047,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807805"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807700",
+      "nombre": "OTRA-SIGLA ANTETA",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 6.932431,
+        "longitud": -72.450872,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807700"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807706",
+      "nombre": "OTRA-SIGLA BAKO KUIRA",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.056877,
+        "longitud": -72.352243,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807706"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480809093",
+      "nombre": "OTRA-SIGLA NUCLEO ESC AGRICOLA",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.136435,
+        "longitud": -72.666302,
+        "verificacion": "osm"
+      },
+      "telefono": "5678121",
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480809093"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807702",
+      "nombre": "OTRA-SIGLA SIRIOKUSA",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.056401,
+        "longitud": -72.42672,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807702"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807699",
+      "nombre": "OTRA-SIGLA SORKOTA",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 6.943853,
+        "longitud": -72.338085,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807699"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807786",
+      "nombre": "OTRA-SIGLA TABUT AK LIA",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.018925,
+        "longitud": -72.395668,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807786"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-12480807796",
+      "nombre": "OTRA-SIGLA TEGURA",
+      "categoria": "educacion",
+      "tipo": "Institución educativa",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 6.978117,
+        "longitud": -72.371041,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/12480807796"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703486769",
+      "nombre": "Alto Sardinas",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.118196,
+        "longitud": -72.622418,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703486769"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703486651",
+      "nombre": "Cerro Montebello",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 6.908263,
+        "longitud": -72.416134,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703486651"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703486631",
+      "nombre": "Cordillera De Sarta",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 6.927689,
+        "longitud": -72.452991,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703486631"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703486660",
+      "nombre": "Cordillera De Sarta",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 6.972644,
+        "longitud": -72.36939,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703486660"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703486661",
+      "nombre": "Cuchilla De Sarta",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 6.951915,
+        "longitud": -72.394116,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703486661"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703487840",
+      "nombre": "Cuchilla El Venado",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.09008,
+        "longitud": -72.359496,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703487840"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703486643",
+      "nombre": "Cuchilla Las Preciosas",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 6.955135,
+        "longitud": -72.520388,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703486643"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703487100",
+      "nombre": "Cuchilla Paramito",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.109867,
+        "longitud": -72.480516,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703487100"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703486969",
+      "nombre": "Cuchilla Torrecitas",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.130733,
+        "longitud": -72.611861,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703486969"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703487074",
+      "nombre": "Filo Campohermosa",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.052369,
+        "longitud": -72.436639,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703487074"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703486659",
+      "nombre": "Filo El Meson",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.014227,
+        "longitud": -72.383298,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703486659"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-way-261967753",
+      "nombre": "Laguna Rucia",
+      "categoria": "naturaleza",
+      "tipo": "Laguna / cuerpo de agua",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 6.888861,
+        "longitud": -72.514095,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/261967753"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703486648",
+      "nombre": "Loma El Oso",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 6.958879,
+        "longitud": -72.342002,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703486648"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703487125",
+      "nombre": "Loma Larga",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.243168,
+        "longitud": -72.687709,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703487125"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703486964",
+      "nombre": "Pico La Mona",
+      "categoria": "naturaleza",
+      "tipo": "Cerro / pico",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.138651,
+        "longitud": -72.611597,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703486964"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-703170150",
+      "nombre": "Chitagá",
+      "categoria": "poblado",
+      "tipo": "Cabecera municipal",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.13819,
+        "longitud": -72.664795,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/703170150"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-way-658283229",
+      "nombre": "Clínica Chitaga",
+      "categoria": "salud",
+      "tipo": "Hospital",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.139203,
+        "longitud": -72.665655,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/658283229"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-way-657448135",
+      "nombre": "Casa Cural De Chitaga",
+      "categoria": "turismo",
+      "tipo": "Templo",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.138033,
+        "longitud": -72.664038,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/657448135"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-way-1374426708",
+      "nombre": "LOTE Plaza arrayan",
+      "categoria": "turismo",
+      "tipo": "Parque",
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.138383,
+        "longitud": -72.661796,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/1374426708"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    },
+    {
+      "id": "osm-node-10979698955",
+      "nombre": "Monumento",
+      "categoria": "turismo",
+      "tipo": "Monumento",
+      "sinNombre": true,
+      "descripcion": {},
+      "ubicacion": {
+        "latitud": 7.139984,
+        "longitud": -72.666415,
+        "verificacion": "osm"
+      },
+      "fuentes": [
+        {
+          "nombre": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/10979698955"
+        }
+      ],
+      "actualizado": "2026-10-14T02:11:41.491Z"
+    }
+  ]
+}

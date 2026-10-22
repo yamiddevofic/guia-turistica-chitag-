@@ -1,0 +1,184 @@
+[
+  {
+    "id": "parque-principal",
+    "osmId": "osm-way-657446526",
+    "nombre": "Parque Principal de Chitagá",
+    "categoria": "turismo",
+    "tipo": "Plaza principal",
+    "destacado": true,
+    "altitud": 2345,
+    "descripcion": {
+      "general": "Centro de la vida del pueblo. Tiene las letras monumentales con el nombre del municipio y un obelisco que recuerda el paso de Simón Bolívar. Al frente está la iglesia de San Juan Nepomuceno.",
+      "historia": "El obelisco conmemora el paso del Libertador por Chitagá durante la campaña de independencia."
+    },
+    "ubicacion": { "latitud": 7.138207, "longitud": -72.664824, "descripcion": "Casco urbano, frente a la iglesia", "verificacion": "osm" },
+    "acceso": { "desde": "Casco urbano", "tiempo": "En el centro", "dificultad": "facil" },
+    "consejos": ["Los árboles del parque tienen ficha con código QR en PlantasQR."],
+    "enlaces": [{ "nombre": "Árboles del parque (PlantasQR)", "url": "https://plantas-qr.vercel.app/" }],
+    "fuentes": [
+      { "nombre": "OpenStreetMap", "url": "https://www.openstreetmap.org/way/657446526" },
+      { "nombre": "Turismo Norte de Santander", "url": "https://turismonortedesantander.com/chitaga/" }
+    ]
+  },
+  {
+    "id": "iglesia-san-juan-nepomuceno",
+    "osmId": "osm-way-657448134",
+    "nombre": "Iglesia San Juan Nepomuceno",
+    "categoria": "turismo",
+    "tipo": "Templo",
+    "destacado": true,
+    "descripcion": {
+      "general": "Templo principal del municipio, frente al parque. Su fachada es uno de los referentes del pueblo.",
+      "historia": "Según la guía de turismo departamental, la parroquia fue fundada en 1808."
+    },
+    "ubicacion": { "latitud": 7.13829, "longitud": -72.664131, "descripcion": "Costado del Parque Principal", "verificacion": "osm" },
+    "acceso": { "desde": "Casco urbano", "tiempo": "En el centro", "dificultad": "facil" },
+    "consejos": ["Respeta los horarios de culto si entras a visitarla."],
+    "fuentes": [
+      { "nombre": "OpenStreetMap", "url": "https://www.openstreetmap.org/way/657448134" },
+      { "nombre": "Turismo Norte de Santander", "url": "https://turismonortedesantander.com/chitaga/" }
+    ]
+  },
+  {
+    "id": "laguna-comagueta",
+    "osmId": "osm-way-485661424",
+    "nombre": "Laguna Comagüeta",
+    "categoria": "naturaleza",
+    "tipo": "Laguna de páramo",
+    "destacado": true,
+    "altitud": 3432,
+    "descripcion": {
+      "general": "Laguna del páramo cercana al corregimiento de Presidente. Es un buen lugar para ver aves y fauna de alta montaña.",
+      "historia": "Hace parte del complejo de páramos del Almorzadero, que regula el agua de la región."
+    },
+    "ubicacion": { "latitud": 7.010177, "longitud": -72.682431, "descripcion": "Zona rural, cerca de Presidente", "verificacion": "osm" },
+    "acceso": { "desde": "Corregimiento de Presidente", "tiempo": "Consulta localmente el estado del camino", "dificultad": "moderada" },
+    "consejos": [
+      "Lleva ropa abrigada e impermeable: el clima del páramo cambia rápido.",
+      "Camina despacio: estás por encima de 3.400 m de altitud.",
+      "No dejes basura ni extraigas plantas, especialmente frailejones."
+    ],
+    "datosCuriosos": ["La guía departamental menciona cabaña y servicio de comida junto a la laguna; confirma disponibilidad antes de ir."],
+    "fuentes": [
+      { "nombre": "OpenStreetMap", "url": "https://www.openstreetmap.org/way/485661424" },
+      { "nombre": "Turismo Norte de Santander", "url": "https://turismonortedesantander.com/chitaga/" }
+    ]
+  },
+  {
+    "id": "laguna-el-salado",
+    "nombre": "Laguna El Salado",
+    "categoria": "naturaleza",
+    "tipo": "Laguna de páramo",
+    "destacado": true,
+    "altitud": 3476,
+    "descripcion": {
+      "general": "Considerada el principal atractivo natural del municipio, en el Páramo del Almorzadero."
+    },
+    "ubicacion": {
+      "latitud": 7.016067,
+      "longitud": -72.698285,
+      "descripcion": "Punto final de la vía a la laguna registrada en OpenStreetMap; la orilla puede estar a unos metros",
+      "verificacion": "aproximada"
+    },
+    "acceso": { "desde": "Corregimiento de Presidente", "tiempo": "Unos 40–45 min a pie según la guía departamental", "dificultad": "moderada" },
+    "consejos": [
+      "Sal temprano: en la tarde suele llegar la niebla.",
+      "Lleva agua, abrigo y protector solar."
+    ],
+    "fuentes": [
+      { "nombre": "OpenStreetMap (Vía a la Laguna El Salado)", "url": "https://www.openstreetmap.org/way/570457792" },
+      { "nombre": "Turismo Norte de Santander", "url": "https://turismonortedesantander.com/chitaga/" }
+    ]
+  },
+  {
+    "id": "laguna-el-tambor",
+    "nombre": "Laguna El Tambor",
+    "categoria": "naturaleza",
+    "tipo": "Laguna de páramo",
+    "altitud": 3826,
+    "descripcion": {
+      "general": "La laguna más alta de la zona, alimentada por pequeñas caídas de agua. Recomendada solo para caminantes con experiencia."
+    },
+    "ubicacion": { "descripcion": "Ubicación exacta por confirmar", "verificacion": "pendiente" },
+    "acceso": { "desde": "Corregimiento de Presidente", "tiempo": "Cerca de 1 h 50 min a pie según la guía departamental", "dificultad": "dificil" },
+    "consejos": ["Ve con un guía local: el sendero es de piedra y terreno húmedo."],
+    "fuentes": [{ "nombre": "Turismo Norte de Santander", "url": "https://turismonortedesantander.com/chitaga/" }]
+  },
+  {
+    "id": "presidente",
+    "osmId": "osm-node-653968135",
+    "nombre": "Corregimiento de Presidente",
+    "categoria": "poblado",
+    "tipo": "Corregimiento",
+    "descripcion": { "general": "Centro poblado rural y punto de partida hacia las lagunas del Páramo del Almorzadero." },
+    "ubicacion": { "latitud": 7.019642, "longitud": -72.682554, "descripcion": "Vía Chitagá – Málaga", "verificacion": "osm" },
+    "fuentes": [{ "nombre": "OpenStreetMap", "url": "https://www.openstreetmap.org/node/653968135" }]
+  },
+  {
+    "id": "paramo-almorzadero",
+    "nombre": "Páramo del Almorzadero",
+    "categoria": "naturaleza",
+    "tipo": "Ecosistema de páramo",
+    "destacado": true,
+    "descripcion": {
+      "general": "Complejo de páramos compartido entre Norte de Santander y Santander; en Norte de Santander abarca principalmente Chitagá y Silos. Es la zona de las lagunas de alta montaña."
+    },
+    "ubicacion": { "descripcion": "Es un área extensa, no un punto. Las lagunas son la puerta de entrada.", "verificacion": "pendiente" },
+    "consejos": ["Es un ecosistema protegido: quédate en los senderos."],
+    "fuentes": [{ "nombre": "Wikipedia", "url": "https://es.wikipedia.org/wiki/P%C3%A1ramo_del_Almorzadero" }]
+  },
+  {
+    "id": "casa-museo-rincon-abuela",
+    "nombre": "Casa Museo El Rincón de la Abuela",
+    "categoria": "turismo",
+    "tipo": "Museo",
+    "descripcion": { "general": "Colección de historia local, objetos de la vida cotidiana y herramientas del campo." },
+    "ubicacion": { "descripcion": "Casco urbano; dirección por confirmar", "verificacion": "pendiente" },
+    "fuentes": [{ "nombre": "Turismo Norte de Santander", "url": "https://turismonortedesantander.com/chitaga/" }]
+  },
+  {
+    "id": "casa-museo-jorge-eliecer",
+    "nombre": "Casa Museo Jorge Eliécer Villamizar",
+    "categoria": "turismo",
+    "tipo": "Museo privado",
+    "descripcion": { "general": "Museo privado con pinturas, trabajos en piedra, réplicas religiosas y objetos de colección." },
+    "ubicacion": { "descripcion": "Casco urbano; dirección por confirmar", "verificacion": "pendiente" },
+    "fuentes": [{ "nombre": "Turismo Norte de Santander", "url": "https://turismonortedesantander.com/chitaga/" }]
+  },
+  {
+    "id": "casa-de-teja",
+    "nombre": "Casa de Teja",
+    "categoria": "turismo",
+    "tipo": "Casa histórica",
+    "descripcion": { "general": "Casa tradicional señalada como lugar de nacimiento del presidente Ramón González Valencia." },
+    "ubicacion": { "descripcion": "Dirección por confirmar", "verificacion": "pendiente" },
+    "fuentes": [{ "nombre": "Turismo Norte de Santander", "url": "https://turismonortedesantander.com/chitaga/" }]
+  },
+  {
+    "id": "casa-colonial-bolivar",
+    "nombre": "Casa de Bolívar",
+    "categoria": "turismo",
+    "tipo": "Casa colonial",
+    "descripcion": { "general": "Casa colonial donde, según la tradición local, se hospedó Simón Bolívar." },
+    "ubicacion": { "descripcion": "Dirección por confirmar", "verificacion": "pendiente" },
+    "fuentes": [{ "nombre": "Turismo Norte de Santander", "url": "https://turismonortedesantander.com/chitaga/" }]
+  },
+  {
+    "id": "puente-real",
+    "nombre": "Puente Real",
+    "categoria": "turismo",
+    "tipo": "Monumento histórico",
+    "descripcion": { "general": "Puente histórico declarado Bien de Interés Cultural de carácter nacional." },
+    "ubicacion": { "descripcion": "Ubicación exacta por confirmar", "verificacion": "pendiente" },
+    "fuentes": [{ "nombre": "Turismo Norte de Santander", "url": "https://turismonortedesantander.com/chitaga/" }]
+  },
+  {
+    "id": "santuario-divina-confianza",
+    "nombre": "Santuario del Señor de la Divina Confianza",
+    "categoria": "turismo",
+    "tipo": "Santuario",
+    "descripcion": { "general": "Lugar de peregrinación religiosa del municipio." },
+    "ubicacion": { "descripcion": "Ubicación por confirmar", "verificacion": "pendiente" },
+    "fuentes": [{ "nombre": "Turismo Norte de Santander", "url": "https://turismonortedesantander.com/chitaga/" }]
+  }
+]
